@@ -1,21 +1,22 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package carisellazo;
 
 /**
  *
- * @author karen_b
+ * @author Karen Vargas
  */
 public class Carisellazo {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        //Definir Variables
+        
+        int rondas=0, total_apuesta=0, apuesta, continuar=0, opcion;
+        
+        //Scanner
+        
+        
     }
     
 }
